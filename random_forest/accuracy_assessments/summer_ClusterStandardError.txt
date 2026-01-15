@@ -1,0 +1,3 @@
+Standard Error of the User's Accuracy:     [0.97031976 0.74299217] %
+Standard Error of the Producer's Accuracy: [0.27850434 3.08654954] %
+Standard Error of the Overall Accuracy:    1.1783565891335368 %

@@ -1,0 +1,45 @@
+# A conda environment for dswe.
+#
+# Usage:
+#   $ conda env create --file=dswe-ps.yml
+#   $ source activate dswe-ps
+
+name: dswe-ps
+
+channels:
+  - conda-forge
+dependencies:
+  - python =3
+  - pip
+  - numpy
+  - pandas
+  - notebook
+  - glob2
+  - matplotlib
+  - seaborn
+
+  # spatial packages
+  - gdal
+  - rasterio
+  - geopandas
+  - scikit-image
+  - earthpy
+  - rasterstats
+  - descartes
+  - cartopy
+  - xarray
+  - netcdf4
+  - h5netcdf
+  - rioxarray
+
+  # machine learning packages
+  - pip:
+    - scikit-learn
+    - merf
+    - shap
+    - pymannkendall
+    - matplotlib-scalebar
+    - matplotlib-map-utils
+    # Planet internal package --- NOT public
+    - basemaps_internal-0.0.5.3.dev6+gf2b38f5.tar.gz
+

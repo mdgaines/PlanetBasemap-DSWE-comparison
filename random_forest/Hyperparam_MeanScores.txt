@@ -1,0 +1,30 @@
+mean_test_precision_macro etimator: 2 params: {'max_features': 2, 'n_estimators': 200}
+	mean_test_precision_macro :		0.9848816442271955
+	mean_test_recall_macro :		0.9734417876688506
+	mean_test_f1_macro :			0.9788600790558759
+	mean_test_accuracy :			0.9795839380745042
+	mean_test_roc_auc_ovo :			0.9924417736368983
+mean_test_recall_macro etimator: 2 params: {'max_features': 2, 'n_estimators': 200}
+	mean_test_precision_macro :		0.9848816442271955
+	mean_test_recall_macro :		0.9734417876688506
+	mean_test_f1_macro :			0.9788600790558759
+	mean_test_accuracy :			0.9795839380745042
+	mean_test_roc_auc_ovo :			0.9924417736368983
+mean_test_f1_macro etimator: 2 params: {'max_features': 2, 'n_estimators': 200}
+	mean_test_precision_macro :		0.9848816442271955
+	mean_test_recall_macro :		0.9734417876688506
+	mean_test_f1_macro :			0.9788600790558759
+	mean_test_accuracy :			0.9795839380745042
+	mean_test_roc_auc_ovo :			0.9924417736368983
+mean_test_accuracy etimator: 2 params: {'max_features': 2, 'n_estimators': 200}
+	mean_test_precision_macro :		0.9848816442271955
+	mean_test_recall_macro :		0.9734417876688506
+	mean_test_f1_macro :			0.9788600790558759
+	mean_test_accuracy :			0.9795839380745042
+	mean_test_roc_auc_ovo :			0.9924417736368983
+mean_test_roc_auc_ovo etimator: 17 params: {'max_features': 5, 'n_estimators': 700}
+	mean_test_precision_macro :		0.9842567588274955
+	mean_test_recall_macro :		0.9728220329367258
+	mean_test_f1_macro :			0.9782385661233748
+	mean_test_accuracy :			0.9786963093822993
+	mean_test_roc_auc_ovo :			0.9939435488692929

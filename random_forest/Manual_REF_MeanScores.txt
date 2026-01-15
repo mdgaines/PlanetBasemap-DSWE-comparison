@@ -1,0 +1,80 @@
+least important band: [0] blue
+
+test results from v1
+         precision macro avg:	0.9824146208609894
+            recall macro avg:	0.9693751149010147
+                f1 macro avg:	0.9755797027831639
+                accuracy avg:	0.9757102841136455
+             roc auc ovo avg:	0.9926346831023501        
+least important band: [14] alpha
+
+test results from v2
+         precision macro avg:	0.982662055493036
+            recall macro avg:	0.969146853588202
+                f1 macro avg:	0.9755776095815974
+                accuracy avg:	0.9757102841136455
+             roc auc ovo avg:	0.9927640230092031        
+least important band: [6] green_3x3
+
+test results from v3
+         precision macro avg:	0.982904524827482
+            recall macro avg:	0.9689415832863786
+                f1 macro avg:	0.9755880474942051
+                accuracy avg:	0.9760704281712684
+             roc auc ovo avg:	0.9926406058604316        
+least important band: [1, 9] red
+
+test results from v4
+         precision macro avg:	0.9826717682967402
+            recall macro avg:	0.9691979264985964
+                f1 macro avg:	0.9756192609057571
+                accuracy avg:	0.9761104441776711
+             roc auc ovo avg:	0.9925189806740737        
+least important band: [8] ndvi_3x3
+
+test results from v5
+         precision macro avg:	0.9824384115947961
+            recall macro avg:	0.9689446788239617
+                f1 macro avg:	0.9753658051131888
+                accuracy avg:	0.9757503001200482
+             roc auc ovo avg:	0.9921489062073288        
+least important band: [0] green
+
+test results from v6
+         precision macro avg:	0.9823924805586266
+            recall macro avg:	0.9691655732768935
+                f1 macro avg:	0.9754701970862525
+                accuracy avg:	0.976390556222489
+             roc auc ovo avg:	0.9927914484539553        
+least important band: [4, 3] red_3x3
+
+test results from v7
+         precision macro avg:	0.9829635859517681
+            recall macro avg:	0.9687903864409069
+                f1 macro avg:	0.9755322392218003
+                accuracy avg:	0.9765106042416967
+             roc auc ovo avg:	0.9921742961460389        
+least important band: [8] hillshade
+
+test results from v8
+         precision macro avg:	0.9832477735274019
+            recall macro avg:	0.968818468340312
+                f1 macro avg:	0.9756754009287325
+                accuracy avg:	0.9765506202480992
+             roc auc ovo avg:	0.9926472012800532        
+least important band: [3] blue_3x3
+
+test results from v9
+         precision macro avg:	0.9822960063858284
+            recall macro avg:	0.9683683742689174
+                f1 macro avg:	0.9749962971667191
+                accuracy avg:	0.9759103641456581
+             roc auc ovo avg:	0.992592567753303        
+least important band: [1] ndwi
+
+test results from v10
+         precision macro avg:	0.9824506640695663
+            recall macro avg:	0.9685090212450074
+                f1 macro avg:	0.9751371825015038
+                accuracy avg:	0.9761104441776711
+             roc auc ovo avg:	0.9917444351967003        

@@ -1,0 +1,62 @@
+User Inputs 
+ 1) Area Distribution 
+320910464.0000
+17752216.0000
+
+ 2) Confustion matrix 
+807.0000,40.0000
+5.0000,367.0000
+
+ Analysis Output 
+ 1) Matrix p(ij) 
+0.9028,0.0448
+0.0007,0.0517
+
+ 2) Number of pixels MAPPED to class i; n(i) 
+847.0000
+372.0000
+
+ 3) Weight values Wi 
+0.9476
+0.0524
+
+ 4) Standard Error (SE) 
+0.0069
+0.0069
+
+ 5) Standard Error in [ px ] 
+2341376.2500
+2341374.7500
+
+ 6) Standard Error in [ ha ] 
+5327.3096
+5327.3066
+
+ 7) Constant for 95 percent Confidence Interval (CI) = 1.98
+ 
+ 8) CI in [ ha ] 
+10548.0732
+10548.0674
+
+ 9) Margin of Error (MoE) 
+  
+0.0152
+0.1419
+
+ 10) MoE in [ percent ] 
+  
+1.5150
+14.1907
+
+ 11) Overall accuracy 
+  
+0.9545454
+ 12) User's accuracy 
+  
+0.9528
+0.9866
+
+ 13) Producers Accuracy 
+  
+0.9992
+0.5361
