@@ -1,6 +1,6 @@
 # PlanetBasemaps_DSWE_comparison
 
-This repository contains code for the classification of PlanetBasemap imagery to produce seasonal, 4.77 m resolution, surface water extent maps for 2017 and 2019 in the Upper Chattahoochee River Watershed (HUC08 03130001). The seasonal surface water classifications are available on Zenodo: [linked here](10.5281/zenodo.13338427).
+This repository contains code for the classification of PlanetBasemap imagery to produce seasonal, 4.77 m resolution, surface water extent maps for 2017 and 2019 in the Upper Chattahoochee River Watershed (HUC08 03130001). The seasonal surface water classifications are available on Zenodo: [linked here](https://zenodo.org/records/13338427).
 
 This repository also contains the code for the analysis supporting the manuscript "Impact of spatial scale on optical Earth observation-derived seasonal surface water extents" accepted for publication in *Geophysical Research Letters* (doi: ).
 
